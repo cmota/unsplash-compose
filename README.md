@@ -2,7 +2,7 @@
 
 This is the project created for the live demo of Jetpack Compose.
 
-👉 [Presentation](https://speakerdeck.com/cmota/a-multiplatform-adventure)
+👉 [Presentation](https://speakerdeck.com/cmota/a-composable-new-world)
 
 There's another repository with Compose for Android, Desktop and Web along with Kotlin Multiplatform available here:
 
